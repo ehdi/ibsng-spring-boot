@@ -80,8 +80,8 @@ public class IbsngUserAttrServiceImplTest {
         itemRequestDTO.setCustomField(customField);
 
         itemRequestDTO.setAddress("Tehran");
-        itemRequestDTO.setCellphone("09114102124");
-        itemRequestDTO.setEmail("pouyaashna@gmail.com");
+        itemRequestDTO.setCellphone("0911000124");
+        itemRequestDTO.setEmail("email@gmail.com");
         itemRequestDTO.setName("mehdi");
         itemRequestDTO.setCharge("1024-100G-1Y");
 

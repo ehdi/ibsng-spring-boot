@@ -29,10 +29,6 @@ public class IbsngGroupServiceImplTest {
     public void findGroup(){
         IbsngGroupInfoRequestDTO requestDTO = new IbsngGroupInfoRequestDTO();
         requestDTO.setGroupName("1024-100G-1Y");
-
-//        IbsngGroupInfoResponseDTO responseDTO = groupService.findGroup(requestDTO);
-//        System.out.println(responseDTO);
-
     }
 
 }
